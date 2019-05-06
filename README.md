@@ -11,47 +11,47 @@
 
 ## 1. goland使用指南
 
-- [1.goland介绍](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/1.%E4%BB%8B%E7%BB%8D.md)<br>
-- [2.goland安装](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/2.%E5%AE%89%E8%A3%85.md)<br>
-- [3.常用设置](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/3.%E5%B8%B8%E7%94%A8%E8%AE%BE%E7%BD%AE.md)<br>
-- [4.快捷键](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/4.%E5%BF%AB%E6%8D%B7%E9%94%AE.md)<br>
-- [5.插件安装](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/5.%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.md)<br>
-- [6.故障排除](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/6.%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4.md)<br>
+- [1.goland介绍](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/1.%E4%BB%8B%E7%BB%8D.md)<br>
+- [2.goland安装](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/2.%E5%AE%89%E8%A3%85.md)<br>
+- [3.常用设置](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/3.%E5%B8%B8%E7%94%A8%E8%AE%BE%E7%BD%AE.md)<br>
+- [4.快捷键](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/4.%E5%BF%AB%E6%8D%B7%E9%94%AE.md)<br>
+- [5.插件安装](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/5.%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.md)<br>
+- [6.故障排除](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/6.%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4.md)<br>
 
 ## 2. golang专题讲解
 > 在这里我们了解go，学习go，调侃go ~~
 
-- [1.golang发展历史](golang专题讲解/golang发展历史.md)<br>
-- [2.golang交叉编译](golang专题讲解/golang交叉编译.md)<br>
-- [3.golang优点](golang专题讲解/golang优点.md)<br>
-- [4.golang适合做什么](golang专题讲解/golang适合做什么.md)<br>
-- [5.struct_tag获取](golang专题讲解/struct_tag获取.md)<br>
+- [1.golang发展历史](go专题讲解/golang发展历史.md)<br>
+- [2.golang交叉编译](go专题讲解/golang交叉编译.md)<br>
+- [3.golang优点](go专题讲解/golang优点.md)<br>
+- [4.golang适合做什么](go专题讲解/golang适合做什么.md)<br>
+- [5.struct_tag获取](go专题讲解/struct_tag获取.md)<br>
 
 ## 3. golang开源项目
 > 在这里我们了解go，学习go，调侃go ~~
 
-- [1.seelog--浏览器实时查看日志](golang开源项目/seelog_浏览器实时查看日志.md)<br>
-- [2.open--小巧的打开框架](golang开源项目/open--小巧的工具框架.md)<br>
-- [3.melody_websocket框架](golang开源项目/melody_websocket框架.md)<br>
-- [4.grpc_go语言的RPC系统](golang开源项目/grpc_go语言的RPC系统.md)<br>
-- [5.gorm--orm框架](golang开源项目/gorm--orm框架.md)<br>
-- [6.casbin--权限控制框架](golang开源项目/casbin--权限控制框架.md)<br>
-- [7.colly--好用的爬虫框架](golang开源项目/colly--好用的爬虫框架.md)<br>
+- [1.seelog--浏览器实时查看日志](go开源项目/seelog_浏览器实时查看日志.md)<br>
+- [2.open--小巧的打开框架](go开源项目/open--小巧的工具框架.md)<br>
+- [3.melody_websocket框架](go开源项目/melody_websocket框架.md)<br>
+- [4.grpc_go语言的RPC系统](go开源项目/grpc_go语言的RPC系统.md)<br>
+- [5.gorm--orm框架](go开源项目/gorm--orm框架.md)<br>
+- [6.casbin--权限控制框架](go开源项目/casbin--权限控制框架.md)<br>
+- [7.colly--好用的爬虫框架](go开源项目/colly--好用的爬虫框架.md)<br>
 
 ## 4. golang书籍大全
  > 一步一步似爪牙 是魔鬼的步伐 是魔鬼的步伐
 
- * [1.学习Go语言](golang书籍大全/学习Go语言.pdf)<br>
- * [2.Go语言编程.许式伟版](golang书籍大全/Go语言编程.许式伟版.pdf)<br>
- * [3.Go_in_Action](golang书籍大全/Go_in_Action.pdf)<br>
- * [4.Go_Network_Programming](golang书籍大全/Go_Network_Programming.pdf)<br>
- * [5.Go_Web编程](golang书籍大全/Go_Web编程.pdf)<br>
- * [6.Go语言程序设计_en](golang书籍大全/Go语言程序设计_en.pdf)<br>
- * [7.Go语言编程](golang书籍大全/Go语言编程.pdf)<br>
- * [8.Go语言程序设计_en](golang书籍大全/Go语言程序设计_en.pdf)<br>
- * [9.LiteIDE使用帮助](golang书籍大全/LiteIDE使用帮助.pdf)<br>
- * [10.The_Go_Programming_Language](golang书籍大全/The_Go_Programming_Language.pdf)<br>
- * [11.雨痕大神笔记](golang书籍大全/GoYuYanXueXiBiJi-YuHen.pdf)<br>
+ * [1.学习Go语言](go书籍大全/学习Go语言.pdf)<br>
+ * [2.Go语言编程.许式伟版](go书籍大全/Go语言编程.许式伟版.pdf)<br>
+ * [3.Go_in_Action](go书籍大全/Go_in_Action.pdf)<br>
+ * [4.Go_Network_Programming](go书籍大全/Go_Network_Programming.pdf)<br>
+ * [5.Go_Web编程](go书籍大全/Go_Web编程.pdf)<br>
+ * [6.Go语言程序设计_en](go书籍大全/Go语言程序设计_en.pdf)<br>
+ * [7.Go语言编程](go书籍大全/Go语言编程.pdf)<br>
+ * [8.Go语言程序设计_en](go书籍大全/Go语言程序设计_en.pdf)<br>
+ * [9.LiteIDE使用帮助](go书籍大全/LiteIDE使用帮助.pdf)<br>
+ * [10.The_Go_Programming_Language](go书籍大全/The_Go_Programming_Language.pdf)<br>
+ * [11.雨痕大神笔记](go书籍大全/GoYuYanXueXiBiJi-YuHen.pdf)<br>
 
 ## 5 .golang教学视频
 > 看过斗破苍穹的都知道，主人公进步神速，和药老不无关系。拜师学艺，如是而已。资源会不断更新，大家有什么好的资源也可以在此分享..
@@ -72,17 +72,17 @@
 | 11 | 比特币以太坊全套零基础视频教程| https://pan.baidu.com/s/1wPz8SBXabXAv3SZaLd9yKQ | 682b |
 | 12 | 区块链+go语言| https://pan.baidu.com/s/1M-Xgj8NUG5S-2HhjL5TXVQ | gbaj |
 
-## 6. golang标准库
+## 6. go标准库
 > 标准库对于广大亲爱的gopher而言，无疑是一笔巨大的财富，我们应该将这笔巨大的财富掌握在自己的手中，让其发挥出真正的作用，展现出耀眼的光芒。
 - [1.strings](https://github.com/xmge/gonote/blob/master/golang%E6%A0%87%E5%87%86%E5%BA%93/strings.go)<br>
 
-## 7. golang面试题
+## 7. go面试题
 > 以考代练，预祝各位考生取得优异成绩！fighting
 
-- [1.卷一](golang面试题/卷1.md)<br>
-- [2.卷二](golang面试题/卷2.md)<br>
-- [3.卷三](golang面试题/卷3.md)<br>
-- [4.卷四](golang面试题/卷4.md)<br>
+- [1.卷一](go面试题/卷1.md)<br>
+- [2.卷二](go面试题/卷2.md)<br>
+- [3.卷三](go面试题/卷3.md)<br>
+- [4.卷四](go面试题/卷4.md)<br>
 
 
 
