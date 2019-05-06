@@ -69,7 +69,7 @@
 | 8 | go语言教程-老男孩教学| https://pan.baidu.com/s/1TfApasVzngYRxxHotq-4Fg | yqqs |
 | 9 | 基于Golang协程实现流量统计系统| https://pan.baidu.com/s/1CDnuKHJn0BA9OAnsmd8adA | qjr3 |
 | 10 | 黑马Go语言快速入门| https://pan.baidu.com/s/1u50RcepOgGmgar0FG_bOMw | wckx |
-| 11 | 比特币以太坊全套零基础视频教程[全网最全-持续更新]| https://pan.baidu.com/s/1wPz8SBXabXAv3SZaLd9yKQ | 682b |
+| 11 | 比特币以太坊全套零基础视频教程| https://pan.baidu.com/s/1wPz8SBXabXAv3SZaLd9yKQ | 682b |
 | 12 | 区块链+go语言| https://pan.baidu.com/s/1M-Xgj8NUG5S-2HhjL5TXVQ | gbaj |
 
 ## 6. golang标准库
