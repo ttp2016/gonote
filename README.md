@@ -9,7 +9,7 @@
 > 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？ 一蓑烟雨任平生。 料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。
 ---
 
-## 1. goland使用指南
+## 1. goland 使用指南
 
 - [1.goland介绍](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/1.%E4%BB%8B%E7%BB%8D.md)<br>
 - [2.goland安装](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/2.%E5%AE%89%E8%A3%85.md)<br>
@@ -18,7 +18,7 @@
 - [5.插件安装](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/5.%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.md)<br>
 - [6.故障排除](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/6.%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4.md)<br>
 
-## 2. go专题讲解
+## 2. go 专题讲解
 > 在这里我们了解go，学习go，调侃go ~~
 
 - [1.golang发展历史](go专题讲解/golang发展历史.md)<br>
@@ -27,7 +27,7 @@
 - [4.golang适合做什么](go专题讲解/golang适合做什么.md)<br>
 - [5.struct_tag获取](go专题讲解/struct_tag获取.md)<br>
 
-## 3. go开源项目
+## 3. go 开源项目
 > 在这里我们了解go，学习go，调侃go ~~
 
 - [1.seelog--浏览器实时查看日志](go开源项目/seelog_浏览器实时查看日志.md)<br>
@@ -38,7 +38,7 @@
 - [6.casbin--权限控制框架](go开源项目/casbin--权限控制框架.md)<br>
 - [7.colly--好用的爬虫框架](go开源项目/colly--好用的爬虫框架.md)<br>
 
-## 4. go书籍大全
+## 4. go 书籍大全
  > 一步一步似爪牙 是魔鬼的步伐 是魔鬼的步伐
 
  * [1.学习Go语言](go书籍大全/学习Go语言.pdf)<br>
@@ -53,7 +53,7 @@
  * [10.The_Go_Programming_Language](go书籍大全/The_Go_Programming_Language.pdf)<br>
  * [11.雨痕大神笔记](go书籍大全/GoYuYanXueXiBiJi-YuHen.pdf)<br>
 
-## 5 .go教学视频
+## 5 .go 教学视频
 > 看过斗破苍穹的都知道，主人公进步神速，和药老不无关系。拜师学艺，如是而已。资源会不断更新，大家有什么好的资源也可以在此分享..
  吃水不忘挖井人，在此感谢资源提供的大佬：[刘南宁](https://studygolang.com/user/lnn0818)、[situ138](https://github.com/situ138)、[宋波](https://studygolang.com/user/yanxin)
 
@@ -72,11 +72,11 @@
 | 11 | 比特币以太坊全套零基础视频教程| https://pan.baidu.com/s/1wPz8SBXabXAv3SZaLd9yKQ | 682b |
 | 12 | 区块链+go语言| https://pan.baidu.com/s/1M-Xgj8NUG5S-2HhjL5TXVQ | gbaj |
 
-## 6. go标准库
+## 6. go 标准库
 > 标准库对于广大亲爱的gopher而言，无疑是一笔巨大的财富，我们应该将这笔巨大的财富掌握在自己的手中，让其发挥出真正的作用，展现出耀眼的光芒。
 - [1.strings](https://github.com/xmge/gonote/blob/master/golang%E6%A0%87%E5%87%86%E5%BA%93/strings.go)<br>
 
-## 7. go面试题
+## 7. go 面试题
 > 以考代练，预祝各位考生取得优异成绩！fighting
 
 - [1.卷一](go面试题/卷1.md)<br>
