@@ -21,22 +21,12 @@
 ## 2. go 专题讲解
 > 在这里我们了解go，学习go，调侃go ~~
 
-- [1.golang发展历史](go专题讲解/golang发展历史.md)<br>
-- [2.golang交叉编译](go专题讲解/golang交叉编译.md)<br>
-- [3.golang优点](go专题讲解/golang优点.md)<br>
-- [4.golang适合做什么](go专题讲解/golang适合做什么.md)<br>
-- [5.struct_tag获取](go专题讲解/struct_tag获取.md)<br>
+ 未完待续
 
 ## 3. go 开源项目
 > 在这里我们了解go，学习go，调侃go ~~
 
-- [1.seelog--浏览器实时查看日志](go开源项目/seelog_浏览器实时查看日志.md)<br>
-- [2.open--小巧的打开框架](go开源项目/open--小巧的工具框架.md)<br>
-- [3.melody_websocket框架](go开源项目/melody_websocket框架.md)<br>
-- [4.grpc_go语言的RPC系统](go开源项目/grpc_go语言的RPC系统.md)<br>
-- [5.gorm--orm框架](go开源项目/gorm--orm框架.md)<br>
-- [6.casbin--权限控制框架](go开源项目/casbin--权限控制框架.md)<br>
-- [7.colly--好用的爬虫框架](go开源项目/colly--好用的爬虫框架.md)<br>
+ 未完待续
 
 ## 4. go 书籍大全
  > 一步一步似爪牙 是魔鬼的步伐 是魔鬼的步伐
@@ -74,7 +64,7 @@
 
 ## 6. go 标准库
 > 标准库对于广大亲爱的gopher而言，无疑是一笔巨大的财富，我们应该将这笔巨大的财富掌握在自己的手中，让其发挥出真正的作用，展现出耀眼的光芒。
-- [1.strings](https://github.com/xmge/gonote/blob/master/golang%E6%A0%87%E5%87%86%E5%BA%93/strings.go)<br>
+- [1.strings](https://github.com/xmge/gonote/blob/master/go%E6%A0%87%E5%87%86%E5%BA%93/strings.go)<br>
 
 ## 7. go 面试题
 > 以考代练，预祝各位考生取得优异成绩！fighting
