@@ -11,12 +11,12 @@
 
 ## 1. goland 使用指南
 
-- [1.goland介绍](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/1.%E4%BB%8B%E7%BB%8D.md)<br>
-- [2.goland安装](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/2.%E5%AE%89%E8%A3%85.md)<br>
-- [3.常用设置](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/3.%E5%B8%B8%E7%94%A8%E8%AE%BE%E7%BD%AE.md)<br>
-- [4.快捷键](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/4.%E5%BF%AB%E6%8D%B7%E9%94%AE.md)<br>
-- [5.插件安装](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/5.%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.md)<br>
-- [6.故障排除](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/6.%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4.md)<br>
+- [1.goland介绍](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/1.%E4%BB%8B%E7%BB%8D.md)<br>
+- [2.goland安装](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/2.%E5%AE%89%E8%A3%85.md)<br>
+- [3.常用设置](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/3.%E5%B8%B8%E7%94%A8%E8%AE%BE%E7%BD%AE.md)<br>
+- [4.快捷键](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/4.%E5%BF%AB%E6%8D%B7%E9%94%AE.md)<br>
+- [5.插件安装](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/5.%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.md)<br>
+- [6.故障排除](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/6.%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4.md)<br>
 
 ## 2. go 专题讲解
 > 在这里我们了解go，学习go，调侃go ~~
