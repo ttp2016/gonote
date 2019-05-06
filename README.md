@@ -18,7 +18,7 @@
 - [5.插件安装](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/5.%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.md)<br>
 - [6.故障排除](https://github.com/xmge/gonote/blob/master/go%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/6.%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4.md)<br>
 
-## 2. golang专题讲解
+## 2. go专题讲解
 > 在这里我们了解go，学习go，调侃go ~~
 
 - [1.golang发展历史](go专题讲解/golang发展历史.md)<br>
@@ -27,7 +27,7 @@
 - [4.golang适合做什么](go专题讲解/golang适合做什么.md)<br>
 - [5.struct_tag获取](go专题讲解/struct_tag获取.md)<br>
 
-## 3. golang开源项目
+## 3. go开源项目
 > 在这里我们了解go，学习go，调侃go ~~
 
 - [1.seelog--浏览器实时查看日志](go开源项目/seelog_浏览器实时查看日志.md)<br>
@@ -38,7 +38,7 @@
 - [6.casbin--权限控制框架](go开源项目/casbin--权限控制框架.md)<br>
 - [7.colly--好用的爬虫框架](go开源项目/colly--好用的爬虫框架.md)<br>
 
-## 4. golang书籍大全
+## 4. go书籍大全
  > 一步一步似爪牙 是魔鬼的步伐 是魔鬼的步伐
 
  * [1.学习Go语言](go书籍大全/学习Go语言.pdf)<br>
@@ -53,7 +53,7 @@
  * [10.The_Go_Programming_Language](go书籍大全/The_Go_Programming_Language.pdf)<br>
  * [11.雨痕大神笔记](go书籍大全/GoYuYanXueXiBiJi-YuHen.pdf)<br>
 
-## 5 .golang教学视频
+## 5 .go教学视频
 > 看过斗破苍穹的都知道，主人公进步神速，和药老不无关系。拜师学艺，如是而已。资源会不断更新，大家有什么好的资源也可以在此分享..
  吃水不忘挖井人，在此感谢资源提供的大佬：[刘南宁](https://studygolang.com/user/lnn0818)、[situ138](https://github.com/situ138)、[宋波](https://studygolang.com/user/yanxin)
 
