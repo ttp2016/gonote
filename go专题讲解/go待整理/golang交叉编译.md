@@ -7,12 +7,19 @@
 * CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build main.go
 
 ### 3、Windows 下编译 Mac 和 Linux 64位可执行程序
-* SET CGO_ENABLED=0
+
+```
+  mac:
+  SET CGO_ENABLED=0
   SET GOOS=darwin
   SET GOARCH=amd64
   go build main.go
-* SET CGO_ENABLED=0
+```
+
+```
+  linux:
+  SET CGO_ENABLED=0
   SET GOOS=linux
   SET GOARCH=amd64
   go build main.go
-
+```
