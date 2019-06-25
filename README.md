@@ -28,46 +28,12 @@
 
  未完待续
 
-## 4. go 书籍大全
- > 一步一步似爪牙 是魔鬼的步伐 是魔鬼的步伐
-
- * [1.学习Go语言](go书籍大全/学习Go语言.pdf)<br>
- * [2.Go语言编程.许式伟版](go书籍大全/Go语言编程.许式伟版.pdf)<br>
- * [3.Go_in_Action](go书籍大全/Go_in_Action.pdf)<br>
- * [4.Go_Network_Programming](go书籍大全/Go_Network_Programming.pdf)<br>
- * [5.Go_Web编程](go书籍大全/Go_Web编程.pdf)<br>
- * [6.Go语言程序设计_en](go书籍大全/Go语言程序设计_en.pdf)<br>
- * [7.Go语言编程](go书籍大全/Go语言编程.pdf)<br>
- * [8.Go语言程序设计_en](go书籍大全/Go语言程序设计_en.pdf)<br>
- * [9.LiteIDE使用帮助](go书籍大全/LiteIDE使用帮助.pdf)<br>
- * [10.The_Go_Programming_Language](go书籍大全/The_Go_Programming_Language.pdf)<br>
- * [11.雨痕大神笔记](go书籍大全/GoYuYanXueXiBiJi-YuHen.pdf)<br>
-
-## 5 .go 教学视频
-> 看过斗破苍穹的都知道，主人公进步神速，和药老不无关系。拜师学艺，如是而已。资源会不断更新，大家有什么好的资源也可以在此分享..
- 吃水不忘挖井人，在此感谢资源提供的大佬：[刘南宁](https://studygolang.com/user/lnn0818)、[situ138](https://github.com/situ138)、[宋波](https://studygolang.com/user/yanxin)
-
-| 序号 | 课程 | 链接 | 密码 |
-| :---- | :---- | :----|:----|
-| 1 | Google资深工程师深度讲解Go语言| https://pan.baidu.com/s/1IGM-Zqz92AdkskqjBxpeDA | b9wc |
-| 2 | Docker+Kubernetes(k8s)微服务容器化实践| https://pan.baidu.com/s/1dRixHcR6KkmlTkjqc4eR2A | 88rh |
-| 3 | 系统学习Docker 践行DevOps理念| https://pan.baidu.com/s/1sJlyGIXhX5Z8wy9KTMQMFg | kvhr |
-| 4 | 区块链入门与去中心化应用实战| https://pan.baidu.com/s/1BP7UelCYCZ-DBq_vzKpXVw | 2wfr |
-| 5 | go语言教程系列--无闻讲师| https://pan.baidu.com/s/1MICn4I-gYl8Wb65bAzEXWA | 17kq |
-| 6 | 传智播客2018go语言| https://pan.baidu.com/s/1opGP5gUHBAuw4QvqFFaxKA | 6ewg |
-| 7 | 220小时快速入门go语言视频| https://pan.baidu.com/s/1SOybRHWSpbu16D4SmPR_Fg | ss32 |
-| 8 | go语言教程-老男孩教学| https://pan.baidu.com/s/1TfApasVzngYRxxHotq-4Fg | yqqs |
-| 9 | 基于Golang协程实现流量统计系统| https://pan.baidu.com/s/1CDnuKHJn0BA9OAnsmd8adA | qjr3 |
-| 10 | 黑马Go语言快速入门| https://pan.baidu.com/s/1u50RcepOgGmgar0FG_bOMw | wckx |
-| 11 | 比特币以太坊全套零基础视频教程| https://pan.baidu.com/s/1wPz8SBXabXAv3SZaLd9yKQ | 682b |
-| 12 | 区块链+go语言| https://pan.baidu.com/s/1M-Xgj8NUG5S-2HhjL5TXVQ | gbaj |
-
-## 6. go 标准库
+## 4. go 标准库
 > 标准库对于广大亲爱的gopher而言，无疑是一笔巨大的财富，我们应该将这笔巨大的财富掌握在自己的手中，让其发挥出真正的作用，展现出耀眼的光芒。
 
 未完待续
 
-## 7. go 面试题
+## 5. go 面试题
 > 以考代练，预祝各位考生取得优异成绩！fighting
 
 - [1.卷一](go面试题/卷1.md)<br>
