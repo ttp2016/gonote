@@ -9,39 +9,22 @@
 > 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？ 一蓑烟雨任平生。 料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。
 ---
 
-## 1.每日一题
-
-1、写出下面代码输出内容。
-
-```
-package main
-
-import (
-	"fmt"
-)
-
-func main() {
-	defer_call()
-}
-
-func defer_call() {
-	defer func() { fmt.Println("打印前") }()
-	defer func() { fmt.Println("打印中") }()
-	defer func() { fmt.Println("打印后") }()
-
-	panic("触发异常")
-}
-```
-
-## 2.专题讲解
+## 1.专题讲解
 > 在这里我们了解go，学习go，调侃go ~~
 
  未完待续
 
-## 3.开源项目
+## 2.开源项目
 > 在这里我们了解go，学习go，调侃go ~~
 
  未完待续
+
+## 3.源码解析
+> 通过源码与大神面对面交流
+
+- [1.sync.Atomic源码阅读](go源码解析/sync.Atomic源码阅读.md)<br>
+- [2.sync.Once源码阅读](go源码解析/sync.Once源码阅读.md)<br>
+
 
 ## 4.面试题
 > 以考代练，预祝各位考生取得优异成绩！fighting
