@@ -60,7 +60,7 @@ initial-cluster-state: new
 ## 四、新增启动脚本start.sh并启动
 
 
-```sh
+```shell
 #!/bin/bash
 
 CRTDIR=$(pwd)
@@ -77,7 +77,7 @@ done
 
 启动集群
 
-```
+```shell
 chmod +x start.sh
 ./start.sh
 ```
